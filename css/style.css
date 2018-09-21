@@ -6,11 +6,11 @@ body
 	font-family: "Roboto", sans-serif;
 }
 
-#menu_bar ul 
+ul 
 {
 	position: absolute;
   padding-left: 0;
-  background: url(../img/MenuBar.png);
+  
   background-size: cover;
   margin-top: 200px;
   height: 60px;
