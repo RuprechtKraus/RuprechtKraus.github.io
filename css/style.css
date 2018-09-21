@@ -51,7 +51,7 @@ li:hover
 	position: relative;
 	padding-top: 20px;
 	margin-top: 260px;
-	padding-bottom: 25px;
+	padding-bottom: 15px;
 	background: #ffffff;
 	color: #333436;
 }
@@ -170,5 +170,6 @@ li:hover
 .share
 {
 	margin-left: 10px;
-	position: relative;	
+	position: relative;
+	border: 1px solid black;
 }
