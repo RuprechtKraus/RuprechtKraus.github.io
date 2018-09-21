@@ -6,7 +6,7 @@ body
 	font-family: "Roboto", sans-serif;
 }
 
-#menu_bar ul 
+ul 
 {
 	position: absolute;
   padding-left: 0;
